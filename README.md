@@ -31,5 +31,5 @@
 </div>
   
 <h1>Commits:</h1>
- 
-![Snake animation](https://github.com/feliipenevesnow/feliipenevesnow/blob/output/github-contribution-grid-snake.svg)
+  
+![Snake animation](https://github.com/feliipenevesnow/feliipenevesnow/blob/main/snake.yml)
