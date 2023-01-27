@@ -32,4 +32,4 @@
   
 <h1>Commits:</h1>
   
-![Snake animation](https://github.com/feliipenevesnow/feliipenevesnow/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/feliipenevesnow/feliipenevesnow/blob/output/github-contribution-grid-snake.svg)
