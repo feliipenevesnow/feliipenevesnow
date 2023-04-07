@@ -1,6 +1,6 @@
 <h1>Hi, I'm Felipe Neves</h1>
 
-- 📚 | 5/8 Computer Science Student at IFSP-PEP 🇧🇷
+- 📚 | Computer Science Student at IFSP-PEP 🇧🇷
 - 📅 | 22 Years
 
 
