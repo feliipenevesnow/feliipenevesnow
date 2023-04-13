@@ -3,7 +3,6 @@
 - 📚 | Computer Science Student at IFSP-PEP 🇧🇷
 - 📅 | 22 Years
 
-
 <h1>🔥 Skills</h1>
 <div style="display: inline_block">
   <img align="center" alt="Felipe-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -29,4 +28,4 @@
   
  <h1>Commits:</h1>
  
-   ![Snake animation](https://github.com/FelipeFray/FelipeFray/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/feliipenevesnow/feliipenevesnow/blob/output/github-contribution-grid-snake.svg)
