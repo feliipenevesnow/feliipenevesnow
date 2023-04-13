@@ -1,7 +1,8 @@
-<h1>Hi, I'm Felipe Neves</h1>
+<h1>Hi!, I'm Felipe Neves</h1>
 
 - 📚 | Computer Science Student at IFSP-PEP 🇧🇷
 - 📅 | 22 Years
+
 
 <h1>🔥 Skills</h1>
 <div style="display: inline_block">
