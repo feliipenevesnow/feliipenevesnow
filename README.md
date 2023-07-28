@@ -1,4 +1,4 @@
-![rounded-in-photoretrica (2)](https://github.com/feliipenevesnow/feliipenevesnow/assets/65624371/dc566aea-1259-47a0-a75d-d8d2ddce4b45)
+![rounded-in-photoretrica (4)](https://github.com/feliipenevesnow/feliipenevesnow/assets/65624371/565ea938-e9e9-4bcc-b381-2e0f30c9d682)
 
 <h1>🔥 Skills</h1>
 <div style="display: inline_block">
