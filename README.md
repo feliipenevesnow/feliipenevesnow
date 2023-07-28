@@ -1,8 +1,4 @@
-<h1>Hi!, I'm Felipe Neves</h1>
-
-- 📚 | Computer Science Student at IFSP-PEP 🇧🇷
-- 📅 | 22 Years
-
+![rounded-in-photoretrica (2)](https://github.com/feliipenevesnow/feliipenevesnow/assets/65624371/dc566aea-1259-47a0-a75d-d8d2ddce4b45)
 
 <h1>🔥 Skills</h1>
 <div style="display: inline_block">
