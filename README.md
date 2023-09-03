@@ -30,4 +30,5 @@
   
  <h1>Commits:</h1>
  
-![snake gif](https://github.com/feliipenevesnow/feliipenevesnow/blob/output/github-contribution-grid-snake.svg)
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/feliipenevesnow/feliipenevesnow/output/github-contribution-grid-snake.svg" />
+
