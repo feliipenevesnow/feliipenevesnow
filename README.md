@@ -20,15 +20,17 @@
   <a href="https://www.instagram.com/feliipenevesnow"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:feliipenevesnow01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <a href="https://www.linkedin.com/in/feliipenevesnow" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+    
 <h1>Status:</h1>
 <div>
   <a href="https://github.com/feliipenevesnow">
-<img height="150em" width="42%" src="https://github-readme-stats.vercel.app/api?username=feliipenevesnow&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliipenevesnow&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" width="30.3%" src="https://github-readme-stats.vercel.app/api?username=feliipenevesnow&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10"/>
+<img height="150em" width="30.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliipenevesnow&hide=HTML&langs_count=10&layout=compact&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>
+<img height="150em" width="30.3%" src="https://streak-stats.demolab.com/?user=feliipenevesnow&count_private=true&theme=dracula&border_radius=10" alt="streak stats"/>
 </div>
+    
   
  <h1>Commits:</h1>
  
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/feliipenevesnow/feliipenevesnow/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/feliipenevesnow/feliipenevesnow/output/github-contribution-grid-snake-dark.svg" />
 
