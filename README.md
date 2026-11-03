@@ -25,16 +25,16 @@ const felipe = {
   education: "B.S. in Computer Science @ IFSP (2025) • IT Technician @ IFSP (2019)",
   location: "Presidente Prudente, SP - Brazil 📌",
   experience: [
-    "Freelance (2025–Present): Full-Stack & AI Engineer (Custom ERPs, RAG, AI Agents)",
-    "OiKO.ai (2024–2025): Generative AI Application Developer (LangGraph, LLMs)",
+    "Freelance (2025–Present): Full-Stack & AI Engineer (ERPs, RAG, AI Agents)",
+    "OiKO.ai (2024–2025): Generative AI Developer (LangGraph, LangChain, LLMs)",
     "Lojas Quero-Quero S.A. (2024): Tech Intern N1",
     "IFSP (2022–2023): Teaching Assistant (Java, PHP & Programming Logic)"
   ],
   languages: ["Python", "TypeScript", "JavaScript", "Java", "PHP", "SQL", "C/C++", "C#"],
-  backendFrameworks: ["FastAPI", "NestJS", "Spring Boot", "Node.js", "Laravel", "Flask", ".NET"],
-  frontendFrameworks: ["React", "Angular", "Vue.js 3", "Vite", "Tailwind CSS", "Ionic", "Three.js", "Bootstrap"],
-  aiAndDataScience: ["LangGraph", "LangChain", "RAG Pipelines", "Gemini & OpenAI APIs", "CNN / MLP", "MediaPipe", "Pandas/NumPy"],
-  databasesAndOps: ["PostgreSQL", "MySQL", "SQLite", "Docker", "Azure Cloud", "Linux (Ubuntu)", "CI/CD", "Git"]
+  backend: ["FastAPI", "NestJS", "Spring Boot", "Node.js", "Laravel", "Flask", ".NET"],
+  frontend: ["React", "Angular", "Vue 3", "Vite", "Tailwind", "Ionic", "Three.js"],
+  aiAndData: ["LangGraph", "LangChain", "RAG", "Gemini & OpenAI", "CNN/MLP", "MediaPipe"],
+  infraAndDb: ["PostgreSQL", "MySQL", "SQLite", "Docker", "Azure Cloud", "Linux", "CI/CD"]
 };
 ```
 
@@ -64,15 +64,14 @@ const felipe = {
     </tr>
   </table>
 
-  <!-- AI & Data Engineering Badges -->
-  <img height="22" src="https://img.shields.io/badge/LangGraph-%231C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img height="22" src="https://img.shields.io/badge/LangChain-%231C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <!-- AI, Mobile & Embedded Badges (Single Line) -->
+  <img height="22" src="https://img.shields.io/badge/LangGraph_%26_LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph & LangChain" />
   <img height="22" src="https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=flat-square" alt="RAG Pipelines" />
-  <img height="22" src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
   <img height="22" src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img height="22" src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square" alt="OpenAI" />
   <img height="22" src="https://img.shields.io/badge/Deep_Learning_(CNN%2FMLP)-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Deep Learning" />
   <img height="22" src="https://img.shields.io/badge/MediaPipe_CV-0097A7?style=flat-square" alt="MediaPipe" />
-  <img height="22" src="https://img.shields.io/badge/Ionic_Mobile-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic" />
+  <img height="22" src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic" />
   <img height="22" src="https://img.shields.io/badge/ESP32_%2F_IoT-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
 </div>
 
@@ -136,18 +135,17 @@ const felipe = {
         </ul>
       </td>
       <td width="50%" valign="top">
-        <b>🎓 Docência, TCCs & Certificações de Destaque</b>
+        <b>🎓 Docência, Projetos Acadêmicos & Certificações</b>
         <ul>
           <li><b>Ministrante (IFSP):</b> <i>Minicurso API REST com Spring Boot</i> & <i>Minicurso Mineração de Dados</i> (2023).</li>
-          <li><b>Monitor Acadêmico (IFSP):</b> Linguagens Comerciais (Java/PHP - 2023) e Lógica de Programação (2022).</li>
-          <li><b>TCC Ciência da Computação (2025):</b> <i>Protótipo de um VANT Modular de Baixo Custo no Contexto IoT</i> (ESP32, PID, MPU6050).</li>
-          <li><b>TCC Técnico em Informática (2019):</b> <i>ExpresSale — ERP Completo de Gestão de Vendas e Estoque</i> (MVC).</li>
-          <li><b>Certificações:</b>
+          <li><b>ERP ExpresSale (TCC Técnico - IFSP):</b> Sistema desktop completo de gestão comercial, estoque, faturamento e relatórios analíticos em arquitetura MVC.</li>
+          <li><b>Competições Acadêmicas:</b> V Maratona de Programação InterIF (2022) & Maratona de Programação IFSP (2023).</li>
+          <li><b>Certificações em Destaque:</b>
             <ul>
               <li>EF SET English Certificate 63/100 (<b>C1 Advanced</b> - 2025)</li>
               <li>Scientific Computing with Python (<b>freeCodeCamp</b> - 2024)</li>
               <li>Redes de Deep Learning, S.O.L.I.D. com Java, Spring Framework, Stream API & PHP Avançado (<b>DIO</b>)</li>
-              <li>Maratona de Programação InterIF & IFSP (2022 / 2023)</li>
+              <li>Administração de Banco de Dados (<b>Fundação Bradesco</b>)</li>
             </ul>
           </li>
         </ul>
